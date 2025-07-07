@@ -57,8 +57,8 @@ The dataset underwent a detailed exploratory analysis to uncover patterns, ident
 - Applied **log transformation** on `Amount` to address skewness
 - Applied **StandardScaler** on the log-transformed `Amount`
 - Final Preprocessing Steps:
-  - ➗ Train-Test Split (80/20 with stratify)
-  - ⚖️ **SMOTE Oversampling** on training set to balance classes
+  - Train-Test Split (80/20 with stratify)
+  - **SMOTE Oversampling** on training set to balance classes
 
 ---
 
