@@ -1,0 +1,8 @@
+# Ignore model checkpoints and data
+*.pkl
+data/*
+models/*
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
